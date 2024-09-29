@@ -1,4 +1,4 @@
-This is the web-deployed preview version of the app WellSpent created during HackYeah 2024.
+This is the web-deployed preview version of the app WellSpent created by <b> Kinga Żmuda </b> and <b>Ekaterina Mashchenko</b> during HackYeah 2024.
 The app is targeted for mobile phones, however, we chose this way of presenting it due to the simplicity and convenience of GitHub Pages - does not require to install anything.
 
 Warning: this repository contains only files for the web build of the Flutter app. For the complete app repository with all its files, go to: (https://github.com/kingazm/WellSpent-Repo)
@@ -24,4 +24,14 @@ Those gamified mechanics in a fun way encourage shifting users' attention toward
 <i><b>Make sure your energy is WellSpent. </i></b>
 
 # Future development
-We propose expanding the HealthCoins' meaning, as we hope to partner up with companies interested in wellness and sport to offer discounts and special offers to reward our users' hard work towards their well-being, as well as aid them in crisis. Those sponsored options would include coupons for massages, yoga classes, mindfulness coaching and more. This makes the ads targeted and more effective both for potential sponsors and users. We also would like to introduce ranking, in which every user can see how they perform in comparison to their friends. However, in the best case joining the ranking would be optional to accommodate the mental health needs of the users best.
+We propose expanding the HealthCoins' meaning, as we hope to partner up with companies interested in wellness and sport to offer discounts and special offers to reward our users' hard work towards their well-being, as well as aid them in crisis. Those sponsored options would include coupons for massages, yoga classes, mindfulness coaching and more. This makes the ads targeted and more effective both for potential sponsors and users. 
+
+We also would like to introduce ranking, in which every user can see how they perform in comparison to their friends. However, in the best case joining the ranking would be optional to accommodate the mental health needs of the users best.
+
+<img src="https://media.discordapp.net/attachments/1289475425340231743/1289860924642955304/IMG_9380.png?ex=66fa5c18&is=66f90a98&hm=424312bc4ba9e4237e587ae7504327a3b18eec3cf67c7a526c5bfc275138324d&=&format=webp&quality=lossless&width=262&height=567" width="150" />
+
+<img src="https://media.discordapp.net/attachments/1289475425340231743/1289861701101162619/IMG_9381.png?ex=66fa5cd2&is=66f90b52&hm=ad7028bab71f2205d6bf14e04a1edc0bd8bf6cc536cdd9497140b46797181b07&=&format=webp&quality=lossless&width=262&height=567" width="150" />
+
+<img src="https://media.discordapp.net/attachments/1289475425340231743/1289861701751013387/IMG_9382.png?ex=66fa5cd2&is=66f90b52&hm=665f19e7277c289cc0ce499f86172e65c55e387412aad36109a1bb44c535c7cc&=&format=webp&quality=lossless&width=262&height=567" width="150" />
+
+
