@@ -4,7 +4,7 @@ The app is targeted for mobile phones, however, we chose this way of presenting 
 Warning: this repository contains only files for the web build of the Flutter app. For the complete app repository with all its files, go to: (https://github.com/kingazm/WellSpent-Repo)
 
 # Instructions on how to test and view the app just like a mobile device:
-1. Open (https://github.com/kingazm/WellSpent-WebDeploymen) in Google Chrome;
+1. Open (https://github.com/kingazm/WellSpent-WebDeployment/index.html) in Google Chrome;
 2. Open Developer Tools and choose a phone device, we recommend i.e. iPhone XR;
 3. Have fun discovering the idea and functionalities of the app!
 
