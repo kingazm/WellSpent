@@ -3,18 +3,25 @@ The app is targeted for mobile phones, however, we chose this way of presenting 
 
 Warning: this repository contains only files for the web build of the Flutter app. For the complete app repository with all its files, go to: (https://github.com/kingazm/WellSpent-Repo)
 
-Instructions on how to test and view the app just like a mobile device:
+# Instructions on how to test and view the app just like a mobile device:
 1. Open (https://github.com/kingazm/WellSpent-WebDeploymen) in Google Chrome;
 2. Open Developer Tools and choose a phone device, we recommend i.e. iPhone XR;
 3. Have fun discovering the idea and functionalities of the app!
 
 
-About the project:
-We care so much about how we spend our money but what about our life energy? 
-The project compares the quality of life and health to a special currency - HealthCoins.
+# About the project:
+<b><I>We care so much about how we spend our money but what about our life energy?</i></b>
+
+The project compares the quality of life and health to a special currency - <b>HealthCoins</b>.
 As every person wakes up every day fresh, ready for a new day, as a user of our app they receive a fresh batch of HealthCoins, a total of 1440 - just like the number of minutes in a day.
+
 Throughout the day every user naturally decides how to spend their day - whether they're more conscious and mindful (regular walks, yoga, relaxation and proper amount of work, etc.) or completely disregard their well-being (spending too much time on social media, ignoring huge amounts of stress, and so on). That is reflected in the HealthCoin balance on the user's account. They choose from different activities they committed to on the app, add those to the day and see their balance change in real time.
 If the number of HealthCoins left is too low - activities to restore the inner peace and physical strength of a person are proposed, such as short meditation, journaling or rest.
 Those gamified mechanics in a fun way encourage shifting users' attention towards improving the quality of their lives.
-Money is important, yet health is even more crucial and key to longevity and well-being in the 21st century. Make sure your energy is WellSpent.
-In the future development, we propose expanding the HealthCoins' meaning, as we hope to partner up with companies interested in wellness and sport to offer discounts and special offers to reward our users' hard work towards their well-being, as well as aid them in crisis. Those sponsored options would include coupons for massages, yoga classes, mindfulness coaching and more. This makes the ads targeted and more effective both for potential sponsors and users. We also would like to introduce ranking, in which every user can see how they perform in comparison to their friends. However, in the best case joining the ranking would be optional to accommodate the mental health needs of the users best.
+
+<b>Money is important, yet health is even more crucial and key to longevity and well-being in the 21st century.</b>
+
+<i><b>Make sure your energy is WellSpent. </i></b>
+
+# Future development
+We propose expanding the HealthCoins' meaning, as we hope to partner up with companies interested in wellness and sport to offer discounts and special offers to reward our users' hard work towards their well-being, as well as aid them in crisis. Those sponsored options would include coupons for massages, yoga classes, mindfulness coaching and more. This makes the ads targeted and more effective both for potential sponsors and users. We also would like to introduce ranking, in which every user can see how they perform in comparison to their friends. However, in the best case joining the ranking would be optional to accommodate the mental health needs of the users best.
